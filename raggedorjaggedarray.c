@@ -21,6 +21,6 @@ int main()
             printf("%s\n",s1[j]);
         }
     //this way we dont waste space in the array by initially declaring the number of elements we want to have
-    //In this way most of the sapce is occupied by the pointers itself
+    //In this way most of the space is occupied by the pointers itself
     return 0;
 }
